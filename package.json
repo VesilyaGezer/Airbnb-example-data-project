@@ -1,0 +1,18 @@
+{
+  "name": "airbnbexample",
+  "version": "1.0.0",
+  "description": "Airbnb example taking data with mongoosee",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "author": "Vesilya",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.0"
+  }
+}
